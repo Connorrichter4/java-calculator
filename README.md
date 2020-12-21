@@ -4,6 +4,13 @@
 
 This is a calculator app using the console window. Users can add, multiply, subtract, and divide two number of their choice.
 
+## Technologies Used
+-   Java
+-   Eclipse IDE
+-   Git
+-   GitHub
+-   Java Concepts: Variables, data types, operators, type casting, control statements, class, objects, access specifiers, and core keywords like final, this, and static
+
 ## Examples 
 
 ### Addition
@@ -17,6 +24,3 @@ This is a calculator app using the console window. Users can add, multiply, subt
 
 ### Division
 ![divide](https://user-images.githubusercontent.com/58124052/102821203-4cf4c180-439c-11eb-96e1-fb4917b747cc.PNG)
-
-## Technologies Used
--   Java
