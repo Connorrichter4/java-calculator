@@ -42,7 +42,10 @@ public class InteracticeCalculator {
 			divide.setA(numberA);
 			divide.setB(numberB);
 			result = divide.getResult();
-		} 
+		} else {
+			System.out.println("Please enter a valid operation i.e.(add, subtract, multiply, divide)");
+			
+		}
 		
 		System.out.println("The result is: " + result);
 		
